@@ -9,4 +9,3 @@ try {
 } catch (e) {
     console.log("error")
 }
-git push origin master
